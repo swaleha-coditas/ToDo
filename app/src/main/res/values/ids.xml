@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="action_homeFragment_to_editFragment" type="id">action_homeFragment_to_editFragment
+    </item>
+    <item name="action_homeFragment_to_addFragment" type="id">action_homeFragment_to_addFragment
+    </item>
+</resources>
